@@ -1,2 +1,2 @@
-# DissertationTemplate
-Master's dissertation Template for Russian style ГОСТ 7.32
+# Dissertation Template
+XeLaTeX Master's dissertation Template for Russian style ГОСТ 7.32 
